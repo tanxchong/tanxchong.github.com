@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Xiao Tan]]></title>
-  <link href="http://tanxchong.github.io/atom.xml" rel="self"/>
-  <link href="http://tanxchong.github.io/"/>
-  <updated>2015-11-09T14:46:02+08:00</updated>
-  <id>http://tanxchong.github.io/</id>
+  <link href="http://www.xtan.org/atom.xml" rel="self"/>
+  <link href="http://www.xtan.org/"/>
+  <updated>2015-11-09T21:56:52+08:00</updated>
+  <id>http://www.xtan.org/</id>
   <author>
     <name><![CDATA[Xiao Tan]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Test]]></title>
-    <link href="http://tanxchong.github.io/blog/2015/10/30/ewrqwer/"/>
+    <link href="http://www.xtan.org/blog/2015/10/30/ewrqwer/"/>
     <updated>2015-10-30T10:45:20+08:00</updated>
-    <id>http://tanxchong.github.io/blog/2015/10/30/ewrqwer</id>
+    <id>http://www.xtan.org/blog/2015/10/30/ewrqwer</id>
     <content type="html"><![CDATA[<p>Just for test.
 $f^t \times$</p>
 ]]></content>
